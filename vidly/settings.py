@@ -25,7 +25,7 @@ SECRET_KEY = 'fj-v4uc1es2rma8ra3zp-!aiqpqc@o51!_)wzz5+%k^9z)r4i3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mwibutsa-learn-django.herokuapp.com']
 
 
 # Application definition
